@@ -1,0 +1,720 @@
+fileFormatVersion: 2
+guid: 2b3161d032c48d8449b92ebf35ba28d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 816680962259178473
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_0
+  - first:
+      213: -4949760730870577396
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_1
+  - first:
+      213: -6276953583747968287
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_2
+  - first:
+      213: -9018244481231339744
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_3
+  - first:
+      213: 1970089634383737025
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_4
+  - first:
+      213: 510855403409362290
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_5
+  - first:
+      213: -8231506208041168264
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_6
+  - first:
+      213: -8783879527400981844
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_7
+  - first:
+      213: 2872299985879883492
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_8
+  - first:
+      213: -3540944581538818737
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_9
+  - first:
+      213: 31967498936762054
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_10
+  - first:
+      213: 6590543249509515483
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_11
+  - first:
+      213: 4370401566062352458
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_12
+  - first:
+      213: 2872546793046137457
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_13
+  - first:
+      213: -925483273134741157
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_14
+  - first:
+      213: -8326042845797502073
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_15
+  - first:
+      213: 6300897710094867453
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_16
+  - first:
+      213: -7395994510185105020
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_17
+  - first:
+      213: -4144978654722302153
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_18
+  - first:
+      213: 8658895456954827562
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_19
+  - first:
+      213: 3359960407629625702
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_20
+  - first:
+      213: 3485221125218180322
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_21
+  - first:
+      213: 3740382135355264079
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_22
+  - first:
+      213: -7482488306273305248
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_23
+  - first:
+      213: 5606075786140802762
+    second: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 143
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3584a120f655b00800000000000000
+      internalID: 816680962259178473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07084917daee4bb0800000000000000
+      internalID: -4949760730870577396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_2
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e25619e8f7c3e8a0800000000000000
+      internalID: -6276953583747968287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f349ecc62c8d280800000000000000
+      internalID: -9018244481231339744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c03f11a51a275b10800000000000000
+      internalID: 1970089634383737025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27dcdc3684ce61700800000000000000
+      internalID: 510855403409362290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872984757b0d3cd80800000000000000
+      internalID: -8231506208041168264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa307bdb14691680800000000000000
+      internalID: -8783879527400981844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_8
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eedaba7e957cd720800000000000000
+      internalID: 2872299985879883492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d800f9a90cdec0800000000000000
+      internalID: -3540944581538818737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cebb7a5542917000800000000000000
+      internalID: 31967498936762054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd00ddfca20567b50800000000000000
+      internalID: 6590543249509515483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4815f6a119c6ac30800000000000000
+      internalID: 4370401566062352458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ad330c6165dd720800000000000000
+      internalID: 2872546793046137457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_14
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b59ec33ddd50823f0800000000000000
+      internalID: -925483273134741157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783be8f1524f37c80800000000000000
+      internalID: -8326042845797502073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfbd6407519417750800000000000000
+      internalID: 6300897710094867453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4897dabbd262c5990800000000000000
+      internalID: -7395994510185105020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f53b3efd31a76c0800000000000000
+      internalID: -4144978654722302153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2349039a839a2870800000000000000
+      internalID: 8658895456954827562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669f32c503af0ae20800000000000000
+      internalID: 3359960407629625702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec115cd52efd5030800000000000000
+      internalID: 3485221125218180322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c41161cb188e330800000000000000
+      internalID: 3740382135355264079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_23
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db094878cd82890800000000000000
+      internalID: -7482488306273305248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Fantasy Zone II The Tears of Opa-Opa - Pao_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 143
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace57d8a938cccd40800000000000000
+      internalID: 5606075786140802762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
